@@ -14,4 +14,8 @@
 
 ---
 
-![Preview](preview.png)
+![Preview](assets/images/preview%20.png)
+
+## Deploy
+O projeto está disponível no GitHub Pages:
+[https://balenav.github.io/Responsive-Login-Registration-Form/](https://balenav.github.io/Responsive-Login-Registration-Form/)
