@@ -9,7 +9,7 @@
 - Compatível com todos os dispositivos móveis, com uma interface bonita e agradável.
 - Tecnologias utilizadas:
   - **[Remix Icon](https://remixicon.com/)** para os ícones.
-  - **[SVGL](https://svgl.app/)** para as fontes. 
+  - **[SVGL](https://svgl.app/)** para as SVGs. 
   - **[Google Fonts](https://fonts.google.com/)** para as fontes.  
 
 ---
