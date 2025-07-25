@@ -1,2 +1,17 @@
-# Responsive-Login-Registration-Form
-A responsive Login and Registration Form using HTML CSS and JavaScript
+
+## Formulário Responsivo de Login & Registro
+
+- Formulário Responsivo de Login & Registro utilizando **HTML**, **CSS** e **JavaScript** puro.
+- Permite alternar entre login e criação de conta.
+- Contém labels flutuantes e fixas durante a digitação.
+- Contém uma imagem recortada em uma forma personalizada.
+- Desenvolvido com a metodologia **Mobile First**, depois adaptado para desktop.
+- Compatível com todos os dispositivos móveis, com uma interface bonita e agradável.
+- Tecnologias utilizadas:
+  - **[Remix Icon](https://remixicon.com/)** para os ícones.
+  - **[SVGL](https://svgl.app/)** para as fontes. 
+  - **[Google Fonts](https://fonts.google.com/)** para as fontes.  
+
+---
+
+![Preview](preview.png)
