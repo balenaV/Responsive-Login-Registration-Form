@@ -322,7 +322,7 @@ img {
 
 /* Para aparelhos medios */
 @media screen and (min-width: 540px) {
-    .login_-are{
+    .login__area{
         width: 380px;
         margin-inline: auto;
     }
@@ -335,7 +335,7 @@ img {
 }
 /* Para aparelhos grandes */
 
-@media  screen and (min-width: 1150px) {
+@media  screen and (min-width: 1024px) {
     .container{
         margin-inline: auto;
     }
